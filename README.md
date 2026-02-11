@@ -21,8 +21,6 @@ PS C:\> .\TokenTaker.ps1
 
 You can read more about it on our blog [here](https://blog.shellntel.com/p/into-the-belly-of-the-beast).
 
-Created by [0rbz_](https://x.com/0rbz_)
-
 ---
 # Disclaimer
 
